@@ -1,0 +1,21 @@
+digraph {
+	38 [label="Node: 38
+Node source: 0
+WEIGHT (12)"]
+	5 [label="Node: 5
+Node source: 0
+WEIGHT (11)"]
+	4 [label="Node: 4
+Node source: 0
+WEIGHT (8)"]
+	6 [label="Node: 6
+Node source: 0
+WEIGHT (5)"]
+	0 [label="Node: 0
+Node source: 0
+WEIGHT (0)"]
+	5 -> 38
+	4 -> 5
+	6 -> 4
+	0 -> 6
+}

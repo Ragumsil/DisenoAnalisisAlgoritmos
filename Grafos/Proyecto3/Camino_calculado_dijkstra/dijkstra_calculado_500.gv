@@ -1,0 +1,74 @@
+digraph {
+	440 [label="Node: 440
+Node source: 0
+WEIGHT (66)"]
+	435 [label="Node: 435
+Node source: 0
+WEIGHT (61)"]
+	325 [label="Node: 325
+Node source: 0
+WEIGHT (54)"]
+	281 [label="Node: 281
+Node source: 0
+WEIGHT (52)"]
+	311 [label="Node: 311
+Node source: 0
+WEIGHT (48)"]
+	430 [label="Node: 430
+Node source: 0
+WEIGHT (41)"]
+	425 [label="Node: 425
+Node source: 0
+WEIGHT (39)"]
+	289 [label="Node: 289
+Node source: 0
+WEIGHT (35)"]
+	49 [label="Node: 49
+Node source: 0
+WEIGHT (32)"]
+	255 [label="Node: 255
+Node source: 0
+WEIGHT (28)"]
+	87 [label="Node: 87
+Node source: 0
+WEIGHT (25)"]
+	361 [label="Node: 361
+Node source: 0
+WEIGHT (23)"]
+	220 [label="Node: 220
+Node source: 0
+WEIGHT (17)"]
+	420 [label="Node: 420
+Node source: 0
+WEIGHT (16)"]
+	143 [label="Node: 143
+Node source: 0
+WEIGHT (12)"]
+	368 [label="Node: 368
+Node source: 0
+WEIGHT (11)"]
+	342 [label="Node: 342
+Node source: 0
+WEIGHT (8)"]
+	0 [label="Node: 0
+Node source: 0
+WEIGHT (0)"]
+	435 -> 440
+	325 -> 435
+	281 -> 325
+	311 -> 281
+	430 -> 311
+	425 -> 430
+	289 -> 425
+	49 -> 289
+	255 -> 49
+	87 -> 255
+	361 -> 87
+	220 -> 361
+	420 -> 220
+	143 -> 420
+	368 -> 143
+	342 -> 368
+	0 -> 342
+}
+
